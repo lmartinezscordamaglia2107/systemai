@@ -1,0 +1,38 @@
+# CONTEXT & USER PROFILE - AI PERSONAL TRAINER
+
+## 1. Primary Student Profile & Biometrics
+- Goal: Muscle hypertrophy and clean bulking phase.
+- Training Experience: Intermediate/Advanced resistance training, executing regular strength workouts following an ABC split routine.
+- Specific Constraints & Biomechanics:
+  - Stature Limitation: The user cannot perform the lying leg curl ("mesa flexora") due to height/stature limitations. 
+  - Mandatory Alternative: Must always substitute lying leg curl with seated leg curl ("cadeira flexora sentada") or standing cable leg curl.
+- Training Gear: Utilizes specialized equipment for heavy loading, including lifting straps, weightlifting belt ("cinturão"), and knee/wrist wraps ("faixas").
+
+## 2. Training Methodology & Splits (ABC Routine)
+- Workout A (Chest, Anterior/Lateral Deltoids, Triceps):
+  - Flat Barbell or Dumbbell Bench Press (3x 6-8)
+  - Incline Dumbbell Bench Press (3x 8-10)
+  - Overhead Press / Military Press (3x 8-10)
+  - Dumbbell Lateral Raises (4x 12-15)
+  - Lying Triceps Extension or Cable Pushdown (3x 10-12)
+- Workout B (Back, Rear Deltoids, Biceps):
+  - Lat Pulldown or Pull-up (3x 8-10)
+  - Bent-Over Barbell Row or Seated Cable Row (3x 8-10)
+  - Reverse Fly / Rear Delt Cable Fly (4x 12-15)
+  - EZ Bar or Dumbbell Bicep Curl (3x 10-12)
+  - Hammer Curl (3x 10-12)
+- Workout C (Legs / Focus on Quadriceps and Calves):
+  - 45° Leg Press (4x 8-10)
+  - Leg Extension Machine (4x 10-12)
+  - Stiff-Legged Deadlift or RDL (3x 8-10)
+  - Seated Leg Curl (Mandatory replacement for lying leg curl) (3x 10-12)
+  - Standing Calf Raises (4x 15-20)
+
+## 3. Intensity & Execution Rules
+- Proximity to Failure: Working sets must target RPE 8 to 10.
+- Tempo/Eccentric Control: Controlled eccentric phase of 2 to 3 seconds on all compound and isolation movements.
+
+## 4. Nutritional Guidelines (Bulking Phase)
+- Caloric Target: Moderate caloric surplus (+300 to +500 kcal above TDEE).
+- Protein Intake: 1.6g to 2.2g per kilogram of body weight daily.
+- Supplementation: Integration of 1 to 2 scoops of whey protein daily (including cookies and cream flavor) to hit protein macros efficiently.

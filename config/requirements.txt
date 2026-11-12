@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+chromadb
+langchain-community
+langchain-text-splitters
+sentence-transformers
+pypdf
+python-dotenv
+pydantic
+pytest
+fastapi
+uvicorn[standard]
